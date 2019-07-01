@@ -12,4 +12,8 @@ Manifesto. I wish to achieve awareness. I want to be aware of myself and my surr
 
 I wish to achieve efficiency. I want to make myself and my surroundings more efficient. The biggest problem is efficiency has many meaning that constantly change.
 
-Learning is awareness, memorization, and experimentation combined.
+I wish to achieve freedom. Freedom to choose. Freedom from limits.
+
+###### 2019.6.23.7
+
+Learning is awareness, imitation, and experimentation combined.

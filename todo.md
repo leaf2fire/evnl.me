@@ -6,21 +6,38 @@ I log things I plan to do or think about here.
 
 ## P1 Day
 
+* How to debone chicken thighs
+
 ## P2 Week
 
-* Plain Greek yogurt, plain yogurt, cottage cheese, milk
-* Oats
+* Fruits: grapefruit, strawberries, black/blue berries, apples, pears
+* Carbs: Potatoes, oats, rice
+* Dairy: yogurt, Greek yogurt, cottage cheese, butter, cream, milk
+
 * Souffle pancakes
-* Cookies
 * Okonomiyaki
 * Baked chicken katsu
 * Gong Bao Ji Ding
-* Idris
+* How to use miso, ginger, gochujang, fish sauce, dashi, mayonnaise
+
 * Shichimi togarashi
 * Revise strength and stretching regimes
 
+* Set up evnl.me domain
+* Arch Linux install script
+* Embrace shell scripting
+* Idris
+
 ## P3 Year
 
-* Arch Linux install script
+* Pancakes
+* Splits
+* One minute statics (holds)
+* Manna
+* Planche
+* Solid handstand
+
+* Yogurt
+* Sourdough
 
 ## P4 Life

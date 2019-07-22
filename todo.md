@@ -6,8 +6,6 @@ I log things I plan to do or think about here.
 
 ## P1 Day
 
-* How to debone chicken thighs
-
 ## P2 Week
 
 * Fruits: grapefruit, strawberries, black/blue berries, apples, pears
@@ -23,6 +21,10 @@ I log things I plan to do or think about here.
 * Shichimi togarashi
 * Revise strength and stretching regimes
 
+* Read LNs
+* Study math
+* Read my books
+
 * Set up evnl.me domain
 * Arch Linux install script
 * Embrace shell scripting
@@ -37,7 +39,9 @@ I log things I plan to do or think about here.
 * Planche
 * Solid handstand
 
+* Roll cake
 * Yogurt
 * Sourdough
+* Turkish ice cream
 
 ## P4 Life
